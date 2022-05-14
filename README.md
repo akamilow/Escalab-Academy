@@ -1,7 +1,7 @@
 # JavaScript Fundamentals Course
 
-Escalab Academy final proyect made by Camilo Castellar.
-Landing page designed by César Avilés CEO & Founder at Escalab Academy.
+Escalab Academy final proyect made by Camilo Castellar, landing page designed by César Avilés CEO & Founder at Escalab Academy.
+
 JavaScript Fundamentals course directed by Professor Cristóbal Ramos.
 
 ## Badge
