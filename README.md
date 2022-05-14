@@ -5,7 +5,7 @@ Landing page designed by César Avilés CEO & Founder at Escalab Academy.
 JavaScript Fundamentals course directed by Professor Cristóbal Ramos.
 
 ## Badge
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd0d9342-46ea-41b5-a91a-92c4ab3af5a4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[Credly-Camilo](https://www.credly.com/badges/dd0d9342-46ea-41b5-a91a-92c4ab3af5a4/linked_in_profile)
 
 
 ## Authors
