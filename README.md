@@ -1,7 +1,6 @@
 # JavaScript Fundamentals Course
 
-## Badge
-[Credly-Camilo](https://www.credly.com/badges/dd0d9342-46ea-41b5-a91a-92c4ab3af5a4/linked_in_profile)
+Badge: [Credly-Camilo](https://www.credly.com/badges/dd0d9342-46ea-41b5-a91a-92c4ab3af5a4/linked_in_profile)
 
 ## Authors
 - [@akamilow](https://github.com/akamilow)
